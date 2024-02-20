@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+seaborn
+notebook
+dill
+Flask
+jsonify
+#-e .
