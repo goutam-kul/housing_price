@@ -7,7 +7,7 @@
 - total sqft
  
 # To use the app copy paste in git bash
-- https://github.com/goutam-kul/housing_price.git
+- git clone https://github.com/goutam-kul/housing_price.git
 
 # DATASET 
 - https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data
