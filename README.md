@@ -9,7 +9,7 @@
 # To use the app copy paste in git bash
 1. Clone the repository:
    ```bash
-   git clone https://github.com/goutam-kul/Gemini-chatbot.gi
+   git clone https://github.com/goutam-kul/housing_price.git
 
 # DATASET 
 - https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data
