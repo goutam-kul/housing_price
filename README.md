@@ -7,7 +7,9 @@
 - ***total sqft***
  
 # To use the app copy paste in git bash
-- git clone https://github.com/goutam-kul/housing_price.git
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/goutam-kul/Gemini-chatbot.gi
 
 # DATASET 
 - https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data
