@@ -4,7 +4,9 @@ import numpy as np
 import json
 
 
-app = Flask(__name__)
+application = Flask(__name__)
+
+app = application
 
 __locations = None
 __data_columns = None
