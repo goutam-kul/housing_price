@@ -1,6 +1,6 @@
-# End to End housing price prediction project with deployment
+# End to End Banglore house price prediction project with deployment in aws 
 
-**This app is generates the price for houses using 4 values**
+**This app generates the price for houses in Baglore using 4 values**
 - ***location***
 - ***bhk***
 - ***bath***
